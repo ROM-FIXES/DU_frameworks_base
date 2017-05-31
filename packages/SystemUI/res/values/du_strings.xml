@@ -166,4 +166,7 @@
     <string name="no_navigation_warning_title">All navigation methods disabled</string>
     <string name="no_navigation_warning_text">Tap to enable</string>
 
+    <!-- Gesture anywhere -->
+    <string name="gestures_message">Draw your gesture here</string>
+
 </resources>

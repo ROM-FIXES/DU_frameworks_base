@@ -65,4 +65,15 @@
     <color name="recents_memmory_progress_overall">@*android:color/resize_shadow_start_color</color>
     <color name="recents_memmory_progress_free">@*android:color/accent_device_default_light</color>
 
+    <!-- Gesture anywhere overlay colors -->
+    <color name="ga_bg_gradient_start">#e8161616</color>
+    <color name="ga_bg_gradient_center">#d0161616</color>
+    <color name="ga_bg_gradient_end">#77161616</color>
+    <color name="ga_gesture_color">#ff850f0f</color>
+    <color name="ga_info_text_color">#ff850f0f</color>
+    <color name="ga_info_icon_color">#ff850f0f</color>
+    <color name="ga_fab_bg_color">#282828</color>
+    <color name="ga_fab_icon_color">@*android:color/accent_material_dark</color>
+    <color name="ga_fab_color_ripple">#ff7a7a7a</color>
+
 </resources>
